@@ -2,19 +2,38 @@
 
 How To Fail at Almost Everything and Still Win Big
 
-How Google Tests Software
-
 ## Cognitive Science & Crtical Thinking
 
 Thinking, Fast and Slow
 
-## Pre-Refinement
+## Agile
+
+### Pre-Refinement
 
 50 Ways to improve user stories
 
 Story mapping
 
-## Exploratory Testing
+## Software Testing
+
+How Google Tests Software
+
+Lessons Learned in Software Testing
+
+### Exploratory Testing
+
+Explore It!
+
+## Security
+
+Secrets & Lies Digital Security in the a Networked World
+Silence on the Wire
+
+## Programming
+
+### Python
+
+Rasperry Pi Cookbook for Python Programmers
 
 ## Systems & Software Architecture
 
