@@ -11,6 +11,22 @@ Insomnia
 
 SOAPUI
 
+## AWS
+
+AWS CLI
+
+Localstack
+
+## Databases
+
+### SQL
+
+SQL Lite
+
+### Mongo DB
+
+Robo 3T
+
 ## Security
 
 OWASP ZAP Proxy
