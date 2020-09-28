@@ -29,6 +29,13 @@ Explore It!
 Secrets & Lies Digital Security in the a Networked World
 Silence on the Wire
 
+
+## Test Automation
+
+### Flakey Tests
+
+Moritz Eck, Fabio Palomba, Marco Castelluccio, and Alberto Bacchelli. 2019. [Understanding Flaky Tests: The Developer’s Perspective](https://arxiv.org/pdf/1907.01466.pdf)
+
 ## Programming
 
 ### Python
