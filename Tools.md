@@ -1,9 +1,18 @@
 # Tools
 
+## Test Data
+
+[BLNS Repo](https://github.com/minimaxir/big-list-of-naughty-strings)
+
+[Mockaroo](https://mockaroo.com/)
 
 ## Risk Analysis & Test Strategy
 
-Test Sphere Cards
+[Test Sphere Cards](https://store.ministryoftesting.com/collections/testsphere)
+
+[Risk Stomring Online](https://riskstormingonline.com/)
+
+[The Nightmare Headline Game](https://testobsessed.com/2006/12/the-nightmare-headline-game-planning-for-the-unexpected/) (pre-mortem game)
 
 ## Story Planning
 
