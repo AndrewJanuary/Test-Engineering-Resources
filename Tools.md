@@ -1,6 +1,14 @@
 # Tools
 
 
+## Risk Analysis & Test Strategy
+
+Test Sphere Cards
+
+## Story Planning
+
+Fifty Quick Ways To Improve Your User Stories Cards
+
 ## API Clients/Proxy Tools
 
 Fiddler
@@ -38,6 +46,10 @@ Kali Linux
 Wireshark
 
 # Automation Testing 
+
+## Test Reviews & Refactors
+
+[Test Suite Canvas](https://github.com/ahunsberger/TestSuiteDesign/blob/master/Test%20Suite%20Canvas.png) (Ashley Hunsberger)
 
 ## Browser Automation Tools & DSLs
 
