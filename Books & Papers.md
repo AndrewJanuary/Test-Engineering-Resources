@@ -18,11 +18,15 @@ Story mapping
 
 How Google Tests Software
 
-Lessons Learned in Software Testing
+[Lessons Learned in Software Testing](https://www.goodreads.com/book/show/599997.Lessons_Learned_in_Software_Testing)
 
 ### Exploratory Testing
 
-Explore It!
+[Explore It!](https://pragprog.com/titles/ehxta/)
+
+### DevOps
+
+[A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
 
 ## Security
 
