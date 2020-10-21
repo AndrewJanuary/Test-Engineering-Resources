@@ -16,43 +16,29 @@
 
 ## Story Planning
 
-Fifty Quick Ways To Improve Your User Stories Cards
+[Fifty Quick Ways To Improve Your User Stories Cards](https://fiftyquickideas.com/playing-cards/)
 
 ## API Clients/Proxy Tools
 
-Fiddler
+### Postman
 
-Postman
-
-Insomnia
-
-SOAPUI
+[Danny Dainton's Postman Tutorials](https://github.com/DannyDainton/All-Things-Postman)
 
 ## AWS
 
-AWS CLI
-
-Localstack
+[Localstack](https://github.com/localstack/localstack)
 
 ## Databases
 
 ### SQL
 
-SQL Lite
 
 ### Mongo DB
 
-Robo 3T
 
 ## Security
 
-OWASP ZAP Proxy
-
-Burp Suite
-
-Kali Linux
-
-Wireshark
+[OWASP Cheatsheet Series](https://cheatsheetseries.owasp.org/)
 
 # Automation Testing 
 
