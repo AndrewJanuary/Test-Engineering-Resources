@@ -5,6 +5,8 @@ An ever growing collection of useful (IMO) resources for any budding Software Te
 [Books & Papers](https://github.com/AndrewJanuary/Test-Engineering-Resources/blob/master/Books%20%26%20Papers.md) :books:
 
 [Tools](https://github.com/AndrewJanuary/Test-Engineering-Resources/blob/master/Tools.md) :hammer: 
+ 
+[Tutorials](https://github.com/AndrewJanuary/Test-Engineering-Resources/blob/master/Tutorials.md) :mortar_board:
 
 ## Cavets
 
