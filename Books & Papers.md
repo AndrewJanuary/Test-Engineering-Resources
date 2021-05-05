@@ -41,6 +41,10 @@
 
 Moritz Eck, Fabio Palomba, Marco Castelluccio, and Alberto Bacchelli. 2019. [Understanding Flaky Tests: The Developer’s Perspective](https://arxiv.org/pdf/1907.01466.pdf)
 
+### RSpec
+
+[Effective Testing with Rspec 3: Build Ruby Apps with Confidence, Myron Marston, Ian Dees](https://www.goodreads.com/book/show/31338775-effective-testing-with-rspec-3)
+
 ## Programming
 
 ### Python
@@ -54,3 +58,5 @@ Moritz Eck, Fabio Palomba, Marco Castelluccio, and Alberto Bacchelli. 2019. [Und
 [Software Engineering, Ian Sommerville](https://www.goodreads.com/book/show/103569.Software_Engineering)
 
 ### Microservices Architecture
+
+[Monolith to Microservices: Sustaining Productivity While Detangling the System, Sam Newman](https://www.goodreads.com/en/book/show/44144499-monolith-to-microservices)
