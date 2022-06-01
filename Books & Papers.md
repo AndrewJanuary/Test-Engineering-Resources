@@ -60,3 +60,10 @@ Moritz Eck, Fabio Palomba, Marco Castelluccio, and Alberto Bacchelli. 2019. [Und
 ### Microservices Architecture
 
 [Monolith to Microservices: Sustaining Productivity While Detangling the System, Sam Newman](https://www.goodreads.com/en/book/show/44144499-monolith-to-microservices)
+
+## Artificial Intelligence & Machine Learning
+
+[Human Compatible: Artificial Intelligence and the Problem of Control, Stuart Russell](https://www.goodreads.com/book/show/44767248-human-compatible?from_search=true&from_srp=true&qid=X7iLdfr36A&rank=1)
+
+[How To Talk To Robots: A Girls’ Guide To a Future Dominated by AI, Tabitha Goldstaub](https://www.goodreads.com/book/show/55824211-how-to-talk-to-robots)
+
