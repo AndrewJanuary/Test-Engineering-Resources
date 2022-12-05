@@ -6,6 +6,10 @@
 
 [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
+## Problem Solving & Puzzles
+
+[The GCHQ Puzzle Book](https://www.goodreads.com/book/show/31346941-the-gchq-puzzle-book)
+
 ## Agile
 
 ### Pre-Refinement
