@@ -12,7 +12,7 @@
 
 [Risk Stomring Online](https://riskstormingonline.com/)
 
-[The Nightmare Headline Game](https://testobsessed.com/2006/12/the-nightmare-headline-game-planning-for-the-unexpected/) (pre-mortem game)
+[The Nightmare Headline Game](https://web.archive.org/web/20220702045000/https://testobsessed.com/2006/12/the-nightmare-headline-game-planning-for-the-unexpected/) (pre-mortem game)
 
 ## Story Planning
 
