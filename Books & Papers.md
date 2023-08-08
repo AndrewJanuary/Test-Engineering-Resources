@@ -65,6 +65,8 @@ Moritz Eck, Fabio Palomba, Marco Castelluccio, and Alberto Bacchelli. 2019. [Und
 
 [Monolith to Microservices: Sustaining Productivity While Detangling the System, Sam Newman](https://www.goodreads.com/en/book/show/44144499-monolith-to-microservices)
 
+[Building Microservices: Designing Fine-Grained Systems, Sam Newman](https://www.goodreads.com/book/show/22512931-building-microservices)
+
 ## Artificial Intelligence & Machine Learning
 
 [Human Compatible: Artificial Intelligence and the Problem of Control, Stuart Russell](https://www.goodreads.com/book/show/44767248-human-compatible?from_search=true&from_srp=true&qid=X7iLdfr36A&rank=1)
