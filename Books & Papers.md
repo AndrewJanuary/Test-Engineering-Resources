@@ -71,3 +71,5 @@ Moritz Eck, Fabio Palomba, Marco Castelluccio, and Alberto Bacchelli. 2019. [Und
 
 [How To Talk To Robots: A Girls’ Guide To a Future Dominated by AI, Tabitha Goldstaub](https://www.goodreads.com/book/show/55824211-how-to-talk-to-robots)
 
+[Machines Behaving Badly: The Morality of AI, Toby Walsh](https://www.goodreads.com/book/show/60182308-machines-behaving-badly)
+
