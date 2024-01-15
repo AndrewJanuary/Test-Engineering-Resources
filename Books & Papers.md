@@ -14,15 +14,21 @@
 
 ### Pre-Refinement
 
-[50 Quick Ideas to Improve Your User Stories](https://fiftyquickideas.com/fifty-quick-ideas-to-improve-your-user-stories/)
+[Fifty Quick Ideas to Improve Your User Stories, Gojko Adzic](https://fiftyquickideas.com/fifty-quick-ideas-to-improve-your-user-stories/)
 
-[Impact Mapping](https://www.goodreads.com/book/show/16084015-impact-mapping)
+[Impact Mapping, Gojko Adzic](https://www.goodreads.com/book/show/16084015-impact-mapping)
 
 ## Software Testing
 
 [How Google Tests Software](https://www.goodreads.com/book/show/13105440-how-google-tests-software)
 
 [Lessons Learned in Software Testing](https://www.goodreads.com/book/show/599997.Lessons_Learned_in_Software_Testing)
+
+[Fifty Quick Ideas to Improve Your Tests, Gojko Adzic](https://www.goodreads.com/book/show/25564600-fifty-quick-ideas-to-improve-your-tests)
+
+## Bugs & System Failures
+
+[Humans vs Computers, Gojko Adzic](https://www.goodreads.com/book/show/36118272-humans-vs-computers)
 
 ### Exploratory Testing
 
@@ -40,6 +46,8 @@
 
 
 ## Test Automation
+
+
 
 ### Flakey Tests
 
@@ -74,4 +82,6 @@ Moritz Eck, Fabio Palomba, Marco Castelluccio, and Alberto Bacchelli. 2019. [Und
 [How To Talk To Robots: A Girls’ Guide To a Future Dominated by AI, Tabitha Goldstaub](https://www.goodreads.com/book/show/55824211-how-to-talk-to-robots)
 
 [Machines Behaving Badly: The Morality of AI, Toby Walsh](https://www.goodreads.com/book/show/60182308-machines-behaving-badly)
+
+[I Am Code: An Artificial Intelligence Speaks, code-davinci-002, Brent Katz, Josh Morgenthau, Simon Rich](https://www.goodreads.com/book/show/156512398-i-am-code)
 
