@@ -26,6 +26,18 @@
 
 [Fifty Quick Ideas to Improve Your Tests, Gojko Adzic](https://www.goodreads.com/book/show/25564600-fifty-quick-ideas-to-improve-your-tests)
 
+[Software Testing Strategies: A testing guide for the 2020s, Matt Heusser, Michael Larsen](https://www.goodreads.com/book/show/200533654-software-testing-strategies)
+
+[Team Guide to Software Testability, Ash Winter, Rob Meaney](https://www.goodreads.com/book/show/59567770)
+
+[The Little Black Book On Test Design, Rikard Edgren](https://www.goodreads.com/book/show/18667471-the-little-black-book-on-test-design)
+
+[Agile Testing Condensed: A Brief Introduction, Janet Gregory,Lisa Crispin](https://www.goodreads.com/book/show/48516589-agile-testing-condensed)
+
+## Technology Strategy
+
+[Technology Strategy Patterns: Architecture as Strategy, Eben Hewitt](https://www.goodreads.com/book/show/42414767-technology-strategy-patterns)
+
 ## Bugs & System Failures
 
 [Humans vs Computers, Gojko Adzic](https://www.goodreads.com/book/show/36118272-humans-vs-computers)
